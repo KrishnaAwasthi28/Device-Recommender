@@ -1,0 +1,372 @@
+/* General */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f4f7f8;
+  color: #111;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3rem;
+  background: #0F172A;
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.navbar .logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.nav-links li a:hover {
+  color: #3B82F6;
+}
+
+/* Intro Section */
+.intro {
+  height: 30vh;
+  background: linear-gradient(90deg, #3B82F6, #06B6D4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  padding: 0 2rem;
+}
+
+.intro h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.intro p {
+  font-size: 1.5rem;
+}
+
+/* Device Selection */
+.device-selection {
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.device-selection h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.device-cards {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.device-card {
+  background: white;
+  padding: 2rem;
+  width: 180px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.device-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.3);
+}
+
+.device-card span {
+  font-size: 5rem;
+  width: 80px;
+  height: 80px;
+  margin-bottom: 1rem;
+}
+
+.device-card h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+/* Outro/Footer */
+.outro {
+  background: #0F172A;
+  color: white;
+  text-align: center;
+  padding: 3rem 2rem;
+  margin-top: 3rem;
+}
+
+.outro p {
+  margin: 0.5rem 0;
+}
+
+.form-page {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4rem 2rem;
+  background: #f4f7f8;
+}
+
+.form-page h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.device-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 100%;
+  max-width: 500px;
+  background: white;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.device-form label {
+  display: flex;
+  flex-direction: column;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.device-form select {
+  margin-top: 0.5rem;
+  padding: 0.7rem 1rem;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+.device-form button {
+  padding: 0.8rem 2rem;
+  background: #3B82F6;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.device-form button:hover {
+  background: #2563eb;
+  transform: scale(1.05);
+}
+
+
+.recommendations-page {
+  text-align: center;
+  padding: 2rem;
+  background: #f4f7f8; /* attractive background */
+  min-height: 100vh;
+  color: white;
+}
+.recommendations-page h1{
+  color: #111;
+}
+.device-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.device-card-rec{
+  background: linear-gradient(90deg, #3B82F6, #06B6D4);
+  border-radius: 12px;
+  padding: 1.5rem;
+  width: 220px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  transition: transform 0.2s;
+}
+
+.device-card-rec:hover {
+  transform: scale(1.05);
+}
+
+.device-card-rec h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.device-card-rec p {
+  margin-bottom: 1rem;
+}
+
+.device-card-rec button {
+  background-color: #facc15; /* yellow button */
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+.device-card-rec button:hover {
+  background-color: #f59e0b;
+}
+
+
+
+/* Devices.css */
+
+.devices-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.device-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.device-buttons button {
+  margin: 0 10px;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.device-buttons button:hover {
+  opacity: 0.8;
+}
+
+.device-buttons .active {
+  background-color: #007bff;
+  color: white;
+}
+
+.device-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.device-list th,
+.device-list td {
+  border: 1px solid #ddd;
+  padding: 12px 15px;
+  text-align: left;
+}
+
+.device-list th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.device-list tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.device-list tr:hover {
+  background-color: #f1f1f1;
+}
+
+.device-list p {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #555;
+}
+
+/* <-----------------------Mobiles----------------> */
+/* Mobile Phones (width <= 480px) */
+@media (max-width: 480px) {
+  .intro h1 {
+    font-size: 1.4rem;
+  }
+  .intro p {
+    font-size: 0.9rem;
+  }
+  .device-card, .device-card-rec {
+    width: 130px;
+    padding: 0.8rem;
+  }
+  .device-form {
+    max-width: 300px;
+    padding: 0.8rem;
+  }
+  .device-buttons button {
+    padding: 8px 15px;
+    font-size: 0.9rem;
+  }
+}
+
+
+
+/* Tablets (width <= 1024px) */
+@media (max-width: 1024px) {
+  .device-card, .device-card-rec {
+    width: 180px;
+  }
+  .intro h1 {
+    font-size: 2rem;
+  }
+  .intro p {
+    font-size: 1.2rem;
+  }
+  .device-form {
+    max-width: 400px;
+    padding: 1.5rem;
+  }
+}
+
+/* Small Tablets / Large Phones (width <= 768px) */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem 2rem;
+  }
+  .nav-links {
+    display: none;
+  }
+  .intro h1 {
+    font-size: 1.7rem;
+  }
+  .intro p {
+    font-size: 1rem;
+  }
+  .device-card, .device-card-rec {
+    width: 150px;
+    padding: 1rem;
+  }
+  .device-form {
+    max-width: 350px;
+    padding: 1rem;
+  }
+}

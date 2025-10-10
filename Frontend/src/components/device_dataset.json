@@ -1,0 +1,1138 @@
+[
+  {
+    "device_type": "Mobile",
+    "budget_range": "5000-10000",
+    "use_case": "Camera",
+    "brand_preference": "IQOO",
+    "screen_size_pref": "NA",
+    "chosen_device": "iQOO Z10 Lite 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "5000-10000",
+    "use_case": "Gaming",
+    "brand_preference": "POCO",
+    "screen_size_pref": "NA",
+    "chosen_device": "POCO M7 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "5000-10000",
+    "use_case": "Business",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG F06 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "5000-10000",
+    "use_case": "Entertainment",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME NARZO 80 LITE 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "5000-10000",
+    "use_case": "Battery-Life",
+    "brand_preference": "IQOO",
+    "screen_size_pref": "NA",
+    "chosen_device": "iQOO Z10 Lite 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "5000-10000",
+    "use_case": "Business",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG M06 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "5000-10000",
+    "use_case": "Entertainment",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME P3 LITE 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "10000-15000",
+    "use_case": "Camera",
+    "brand_preference": "VIVO",
+    "screen_size_pref": "NA",
+    "chosen_device": "VIVO T3X 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "10000-15000",
+    "use_case": "Gaming",
+    "brand_preference": "POCO",
+    "screen_size_pref": "NA",
+    "chosen_device": "POCO X7 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "10000-15000",
+    "use_case": "Entertainment",
+    "brand_preference": "REDMI",
+    "screen_size_pref": "NA",
+    "chosen_device": "REDMI 15 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "10000-15000",
+    "use_case": "Entertainment",
+    "brand_preference": "POCO",
+    "screen_size_pref": "NA",
+    "chosen_device": "POCO M7 PLUS 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "10000-15000",
+    "use_case": "Battery-Life",
+    "brand_preference": "IQOO",
+    "screen_size_pref": "NA",
+    "chosen_device": "IQOO Z10X 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "10000-15000",
+    "use_case": "Business",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG M36 5g"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "10000-15000",
+    "use_case": "Entertainment",
+    "brand_preference": "VIVO",
+    "screen_size_pref": "NA",
+    "chosen_device": "VIVO T3X 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "15000-20000",
+    "use_case": "Camera",
+    "brand_preference": "CMF",
+    "screen_size_pref": "NA",
+    "chosen_device": "CMF PHONE 2 PRO"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "15000-20000",
+    "use_case": "Gaming",
+    "brand_preference": "IQOO",
+    "screen_size_pref": "NA",
+    "chosen_device": "IQOO Z10R 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "15000-20000",
+    "use_case": "Business",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG F36 5g"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "15000-20000",
+    "use_case": "Entertainment",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME P4 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "15000-20000",
+    "use_case": "Battery-Life",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME P4 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "15000-20000",
+    "use_case": "Business",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS NORD CE4 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "15000-20000",
+    "use_case": "Gaming",
+    "brand_preference": "VIVO",
+    "screen_size_pref": "NA",
+    "chosen_device": "VIVO T4R 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "20000-25000",
+    "use_case": "Camera",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG M56 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "20000-25000",
+    "use_case": "Gaming",
+    "brand_preference": "IQOO",
+    "screen_size_pref": "NA",
+    "chosen_device": "IQOO Z10 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "20000-25000",
+    "use_case": "Business",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG A55 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "20000-25000",
+    "use_case": "Entertainment",
+    "brand_preference": "MOTO",
+    "screen_size_pref": "NA",
+    "chosen_device": "MOTO EDGE 60 FUSION"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "20000-25000",
+    "use_case": "Battery-Life",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS NORD CE5"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "20000-25000",
+    "use_case": "Gaming",
+    "brand_preference": "POCO",
+    "screen_size_pref": "NA",
+    "chosen_device": "POCO F6  5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "20000-25000",
+    "use_case": "Camera",
+    "brand_preference": "NOTHING",
+    "screen_size_pref": "NA",
+    "chosen_device": "NOTHING PHONE 3A"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "20000-25000",
+    "use_case": "Camera",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS NORD CE5"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "20000-25000",
+    "use_case": "Camera",
+    "brand_preference": "VIVO",
+    "screen_size_pref": "NA",
+    "chosen_device": "VIVO T4 PRO 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "20000-25000",
+    "use_case": "Gaming",
+    "brand_preference": "POCO",
+    "screen_size_pref": "NA",
+    "chosen_device": "POCO F7"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "25000-30000",
+    "use_case": "Business",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG A36 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "25000-30000",
+    "use_case": "Entertainment",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME P4 PRO 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "25000-30000",
+    "use_case": "Battery-Life",
+    "brand_preference": "OPPO",
+    "screen_size_pref": "NA",
+    "chosen_device": "OPPO K13 TURBO 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "25000-30000",
+    "use_case": "Gaming",
+    "brand_preference": "IQOO",
+    "screen_size_pref": "NA",
+    "chosen_device": "IQOO NEO 10R 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "25000-30000",
+    "use_case": "Camera",
+    "brand_preference": "XIAOMI",
+    "screen_size_pref": "NA",
+    "chosen_device": "XIAOMI 14 CIVI"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "25000-30000",
+    "use_case": "Entertainment",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME 15 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "25000-30000",
+    "use_case": "Camera",
+    "brand_preference": "MOTO",
+    "screen_size_pref": "NA",
+    "chosen_device": "MOTO EDGE 60 PRO"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Camera",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME 15 PRO 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Camera",
+    "brand_preference": "VIVO",
+    "screen_size_pref": "NA",
+    "chosen_device": "VIVO V60"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Gaming",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS 13R 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Business",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG A56 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Entertainment",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS NORD 5 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Battery-Life",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME GT7 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Gaming",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS NORD 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Camera",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S24 FE"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Gaming",
+    "brand_preference": "IQOO",
+    "screen_size_pref": "NA",
+    "chosen_device": "IQOO NEO 10 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Gaming",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME GT7 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "30000-40000",
+    "use_case": "Camera",
+    "brand_preference": "OPPO",
+    "screen_size_pref": "NA",
+    "chosen_device": "OPPO RENO 14"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "40000-50000",
+    "use_case": "Camera",
+    "brand_preference": "GOOGLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "GOOGLE PIXEL 9A"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "40000-50000",
+    "use_case": "Business",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 14"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "40000-50000",
+    "use_case": "Entertainment",
+    "brand_preference": "MOTO",
+    "screen_size_pref": "NA",
+    "chosen_device": "MOTO RAZR 60"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "40000-50000",
+    "use_case": "Battery-Life",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME GT 7 PRO 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "40000-50000",
+    "use_case": "Camera",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S24"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "40000-50000",
+    "use_case": "Gaming",
+    "brand_preference": "IQOO",
+    "screen_size_pref": "NA",
+    "chosen_device": "IQOO 12"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "40000-50000",
+    "use_case": "Gaming",
+    "brand_preference": "REALME",
+    "screen_size_pref": "NA",
+    "chosen_device": "REALME GT 7 PRO"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "40000-50000",
+    "use_case": "Camera",
+    "brand_preference": "OPPO",
+    "screen_size_pref": "NA",
+    "chosen_device": "OPPO RENO 14 PRO"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Camera",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS 13S"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Business",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS 13S"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Entertainment",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS 13S"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Battery-Life",
+    "brand_preference": "VIVO",
+    "screen_size_pref": "NA",
+    "chosen_device": "VIVO X200 FE"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Camera",
+    "brand_preference": "GOOGLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "GOOGLE PIXEL 9"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Camera",
+    "brand_preference": "VIVO",
+    "screen_size_pref": "NA",
+    "chosen_device": "VIVO X200 FE"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Gaming",
+    "brand_preference": "IQOO",
+    "screen_size_pref": "NA",
+    "chosen_device": "IQOO 13"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Gaming",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 15"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Camera",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 15"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Gaming",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 16"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Camera",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 16"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "50000-60000",
+    "use_case": "Gaming",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS 13S"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Camera",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 17"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Business",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S24 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Entertainment",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S23 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Battery-Life",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS 13"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Camera",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S25 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Gaming",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS 13"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Gaming",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S23 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Camera",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S24 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Gaming",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 17"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Gaming",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S24 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Camera",
+    "brand_preference": "GOOGLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "GOOGLE PIXEL 10"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Entertainment",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S24 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Entertainment",
+    "brand_preference": "ONEPLUS",
+    "screen_size_pref": "NA",
+    "chosen_device": "ONEPLUS 13"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Business",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S25 5G"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Battery-Life",
+    "brand_preference": "SAMUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S24 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "60000-80000",
+    "use_case": "Business",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 17"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "80000-100000",
+    "use_case": "Camera",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE 16 PRO"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "80000-100000",
+    "use_case": "Camera",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S25 EDGE"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "80000-100000",
+    "use_case": "Camera",
+    "brand_preference": "VIVO",
+    "screen_size_pref": "NA",
+    "chosen_device": "VIVO X200 FE"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "80000-100000",
+    "use_case": "Battery-Life",
+    "brand_preference": "SAMUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S24 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "80000-100000",
+    "use_case": "Battery-Life",
+    "brand_preference": "VIVO",
+    "screen_size_pref": "NA",
+    "chosen_device": "VIVO X200 FE"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "80000-100000",
+    "use_case": "Entertainment",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG Z FOLD 6"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "80000-100000",
+    "use_case": "Entertainment",
+    "brand_preference": "VIVO",
+    "screen_size_pref": "NA",
+    "chosen_device": "VIVO X200 PRO"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "80000-100000",
+    "use_case": "Gaming",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 16 PRO"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "80000-100000",
+    "use_case": "Gaming",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S24 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "80000-100000",
+    "use_case": "Camera",
+    "brand_preference": "GOOGLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "GOOGLE PIXEL 9 PRO"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Camera",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 16 PRO MAX"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Camera",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 17 PRO MAX"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Camera",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S25 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Entertainment",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S25 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Battery-Life",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S25 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Gaming",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 17 PRO MAX"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Battery-Life",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 17 PRO MAX"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Camera",
+    "brand_preference": "GOOGLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "GOOGLE 10 PRO"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Gaming",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG S25 ULTRA"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Entertainment",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG Z FOLD 7"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Entertainment",
+    "brand_preference": "SAMSUNG",
+    "screen_size_pref": "NA",
+    "chosen_device": "SAMSUNG Z FLIP 7"
+  },
+  {
+    "device_type": "Mobile",
+    "budget_range": "100000 above",
+    "use_case": "Entertainment",
+    "brand_preference": "APPLE",
+    "screen_size_pref": "NA",
+    "chosen_device": "APPLE IPHONE 17 PRO MAX"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "10000-15000",
+    "use_case": "entertainment",
+    "brand_preference": "Lenovo",
+    "screen_size_pref": 10.1,
+    "chosen_device": "Lenovo Tab M10 3rd Gen"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "15000-20000",
+    "use_case": "study",
+    "brand_preference": "Samsung",
+    "screen_size_pref": 10.4,
+    "chosen_device": "Samsung Galaxy Tab A9"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "20000-25000",
+    "use_case": "reading",
+    "brand_preference": "Realme",
+    "screen_size_pref": 10.5,
+    "chosen_device": "Realme Pad X"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "25000-30000",
+    "use_case": "productivity",
+    "brand_preference": "Xiaomi",
+    "screen_size_pref": 11,
+    "chosen_device": "Xiaomi Pad 6"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "30000-35000",
+    "use_case": "entertainment",
+    "brand_preference": "OnePlus",
+    "screen_size_pref": 11.6,
+    "chosen_device": "OnePlus Pad Go"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "35000-40000",
+    "use_case": "drawing",
+    "brand_preference": "Apple",
+    "screen_size_pref": 10.9,
+    "chosen_device": "Apple iPad 9th Gen"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "40000-45000",
+    "use_case": "gaming",
+    "brand_preference": "Samsung",
+    "screen_size_pref": 11,
+    "chosen_device": "Samsung Galaxy Tab S6 Lite"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "45000-50000",
+    "use_case": "content creation",
+    "brand_preference": "Lenovo",
+    "screen_size_pref": 12.7,
+    "chosen_device": "Lenovo Tab P12"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "50000-55000",
+    "use_case": "media",
+    "brand_preference": "OnePlus",
+    "screen_size_pref": 11.35,
+    "chosen_device": "OnePlus Pad"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "55000-60000",
+    "use_case": "study",
+    "brand_preference": "Apple",
+    "screen_size_pref": 10.9,
+    "chosen_device": "Apple iPad 10th Gen"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "60000-70000",
+    "use_case": "editing",
+    "brand_preference": "Samsung",
+    "screen_size_pref": 12.4,
+    "chosen_device": "Samsung Galaxy Tab S7 FE"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "70000-90000",
+    "use_case": "designing",
+    "brand_preference": "Apple",
+    "screen_size_pref": 11,
+    "chosen_device": "Apple iPad Air (M1)"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "90000-110000",
+    "use_case": "professional use",
+    "brand_preference": "Apple",
+    "screen_size_pref": 12.9,
+    "chosen_device": "Apple iPad Pro (M2)"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "110000-130000",
+    "use_case": "multitasking",
+    "brand_preference": "Samsung",
+    "screen_size_pref": 14.6,
+    "chosen_device": "Samsung Galaxy Tab S8 Ultra"
+  },
+  {
+    "device_type": "Tablet",
+    "budget_range": "130000 above",
+    "use_case": "creative work",
+    "brand_preference": "Apple",
+    "screen_size_pref": 13,
+    "chosen_device": "Apple iPad Pro (M4)"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "25000-30000",
+    "use_case": "study",
+    "brand_preference": "Acer",
+    "screen_size_pref": "NA",
+    "chosen_device": "Acer One 14"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "30000-35000",
+    "use_case": "office work",
+    "brand_preference": "HP",
+    "screen_size_pref": "NA",
+    "chosen_device": "HP 255 G9 Ryzen 3"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "35000-40000",
+    "use_case": "basic use",
+    "brand_preference": "Lenovo",
+    "screen_size_pref": "NA",
+    "chosen_device": "Lenovo IdeaPad 1 Ryzen 3"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "40000-45000",
+    "use_case": "coding",
+    "brand_preference": "Asus",
+    "screen_size_pref": "NA",
+    "chosen_device": "ASUS Vivobook 15 X1504"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "45000-50000",
+    "use_case": "business",
+    "brand_preference": "Dell",
+    "screen_size_pref": "NA",
+    "chosen_device": "Dell Inspiron 3520"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "500000-55000",
+    "use_case": "study",
+    "brand_preference": "HP",
+    "screen_size_pref": "NA",
+    "chosen_device": "HP Laptop 15s Ryzen 5"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "55000-60000",
+    "use_case": "gaming",
+    "brand_preference": "Acer",
+    "screen_size_pref": "NA",
+    "chosen_device": "Acer Aspire 5 Core i5 13th Gen"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "60000-65000",
+    "use_case": "content creation",
+    "brand_preference": "Asus",
+    "screen_size_pref": "NA",
+    "chosen_device": "ASUS Vivobook 16"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "65000-70000",
+    "use_case": "designing",
+    "brand_preference": "Lenovo",
+    "screen_size_pref": "NA",
+    "chosen_device": "Lenovo IdeaPad Slim 5"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "70000-75000",
+    "use_case": "editing",
+    "brand_preference": "Dell",
+    "screen_size_pref": "NA",
+    "chosen_device": "Dell Inspiron 14 2-in-1"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "75000-80000",
+    "use_case": "software development",
+    "brand_preference": "HP",
+    "screen_size_pref": "NA",
+    "chosen_device": "HP Pavilion Plus"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "80000-85000",
+    "use_case": "graphic design",
+    "brand_preference": "Asus",
+    "screen_size_pref": "NA",
+    "chosen_device": "ASUS Zenbook 14 OLED"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "85000-90000",
+    "use_case": "gaming",
+    "brand_preference": "Acer",
+    "screen_size_pref": "NA",
+    "chosen_device": "Acer Nitro V 15"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "90000-110000",
+    "use_case": "multimedia",
+    "brand_preference": "Apple",
+    "screen_size_pref": "NA",
+    "chosen_device": "Apple MacBook Air M1"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "110000-130000",
+    "use_case": "professional work",
+    "brand_preference": "HP",
+    "screen_size_pref": "NA",
+    "chosen_device": "HP Envy x360 Ryzen 7"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "130000-150000",
+    "use_case": "software engineering",
+    "brand_preference": "Dell",
+    "screen_size_pref": "NA",
+    "chosen_device": "Dell XPS 13"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "150000-180000",
+    "use_case": "creative work",
+    "brand_preference": "Apple",
+    "screen_size_pref": "NA",
+    "chosen_device": "Apple MacBook Pro M2"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "180000-200000",
+    "use_case": "video editing",
+    "brand_preference": "Asus",
+    "screen_size_pref": "NA",
+    "chosen_device": "ASUS ROG Zephyrus G14"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "200000 above",
+    "use_case": "AI/ML work",
+    "brand_preference": "Apple",
+    "screen_size_pref": "NA",
+    "chosen_device": "Apple MacBook Pro M3 Pro"
+  },
+  {
+    "device_type": "Laptop",
+    "budget_range": "200000 above",
+    "use_case": "high-end productivity",
+    "brand_preference": "MSI",
+    "screen_size_pref": "NA",
+    "chosen_device": "MSI Prestige 16 AI Evo"
+  }
+]
