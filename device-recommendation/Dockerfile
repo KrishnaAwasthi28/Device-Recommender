@@ -1,5 +1,5 @@
 # Step 1: Use a base image with Java and Python
-FROM openjdk:26-slim-bookworm
+FROM openjdk:17-slim
 
 # Step 2: Install Python
 RUN apt-get update && apt-get install -y python3 python3-pip
