@@ -17,8 +17,8 @@ public class RecommendationController {
         ObjectMapper mapper = new ObjectMapper();
         String inputJson = mapper.writeValueAsString(input);
         
-        String pythonExe = "C:\\Python312\\python.exe";
-        String scriptPath = "C:\\Users\\Krishna\\Desktop\\DEVICE-PROJECT\\ML-MODEL\\main.py";
+        String pythonExe = "python3";
+        String scriptPath = "./main.py";
 
         ProcessBuilder pb = new ProcessBuilder(pythonExe, scriptPath);
         pb.redirectErrorStream(true); // merge stdout and stderr (important!)
