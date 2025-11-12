@@ -1,24 +1,40 @@
-# Step 1: Use a base image with Java and Python
-FROM eclipse-temurin:17-jdk-jammy
+# ---------- STAGE 1: BUILD ----------
+FROM eclipse-temurin:17-jdk-jammy AS build
 
-# Step 2: Install Python
-RUN apt-get update && apt-get install -y python3 python3-pip
+# Install Maven
+RUN apt-get update && apt-get install -y maven python3 python3-pip
 
-# Step 3: Set the working directory inside the container
+# Set working directory
 WORKDIR /app
 
-# Step 4: Copy project files into the container
-COPY . .
+# Copy Maven config first for caching
+COPY pom.xml .
+COPY src ./src
 
-# Step 5: Build the Spring Boot app
-RUN ./mvnw clean package -DskipTests
+# Build the Spring Boot JAR
+RUN mvn clean package -DskipTests
 
-# Step 6: Expose the port Render will use
+# ---------- STAGE 2: RUNTIME ----------
+FROM eclipse-temurin:17-jre-jammy
+
+# Install Python (for ML script)
+RUN apt-get update && apt-get install -y python3 python3-pip
+
+# Set working directory
+WORKDIR /app
+
+# Copy JAR from the build stage
+COPY --from=build /app/target/device-recommendation-0.0.1-SNAPSHOT.jar ./app.jar
+
+# Copy Python ML scripts + dataset
+COPY main.py recommendation_system.py device_dataset.csv ./
+
+# Expose port
 EXPOSE 8080
 
-# Step 7: Set environment variable for Render
+# Set environment variables
 ENV PORT=8080
 ENV JAVA_TOOL_OPTIONS="-Dserver.port=$PORT"
 
-# Step 8: Command to run the Spring Boot JAR
-CMD ["java", "-jar", "target/device-recommendation-0.0.1-SNAPSHOT.jar"]
+# Start the Spring Boot app
+ENTRYPOINT ["java", "-jar", "app.jar"]
