@@ -16,7 +16,7 @@ def main():
 
         # Initialize recommender
         recommender = DeviceRecommender(
-            dataset_path="C:/Users/Krishna/Downloads/device_dataset.csv"
+            dataset_path="./device_dataset.csv"
         )
 
         # Get top 5 recommendations
