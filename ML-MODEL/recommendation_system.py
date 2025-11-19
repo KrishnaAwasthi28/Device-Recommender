@@ -7,12 +7,10 @@ class DeviceRecommender:
         self.df = pd.read_csv(dataset_path)
         self.df.fillna('', inplace=True)
 
-        # ✅ Use your actual column names
         brand_col = 'brand_preference' if 'brand_preference' in self.df.columns else ''
         screen_col = 'screen_size_pref' if 'screen_size_pref' in self.df.columns else ''
         budget_col = 'budget_range' if 'budget_range' in self.df.columns else ''
 
-        # ✅ Combine important columns into one feature string
         combined_cols = ['device_type', 'use_case']
         if brand_col:
             combined_cols.append(brand_col)
@@ -23,7 +21,6 @@ class DeviceRecommender:
 
         self.df['combined_features'] = self.df[combined_cols].astype(str).agg(' '.join, axis=1)
 
-        # Fit TF-IDF on all devices
         self.vectorizer = TfidfVectorizer(stop_words='english')
         self.feature_matrix = self.vectorizer.fit_transform(self.df['combined_features'])
 
@@ -51,12 +48,10 @@ class DeviceRecommender:
         brand_pref = user_input.get('brand_preference', '').strip().lower()
         screen_pref = user_input.get('screen_size_pref', '').strip().lower()
 
-        # ✅ Filter strictly by device type
         filtered_df = self.df[self.df['device_type'].str.lower() == device_type]
         if filtered_df.empty:
             filtered_df = self.df.copy()  # fallback if no match found
 
-        # ✅ Progressive budget relaxation
         step = 5000
         found_devices = pd.DataFrame()
 
@@ -67,7 +62,6 @@ class DeviceRecommender:
             min_budget = max(0, min_budget - step)
             max_budget += step
 
-        # ✅ Build query string for similarity check
         query_text = f"{device_type} {use_case} {brand_pref} {screen_pref} {min_budget}-{max_budget}"
         query_vec = self.vectorizer.transform([query_text])
 
